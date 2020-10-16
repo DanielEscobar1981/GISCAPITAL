@@ -1,3 +1,2 @@
 # GISCAPITAL
-SANTACATALINAMZ6
 index.html
